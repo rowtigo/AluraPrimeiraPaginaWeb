@@ -9,7 +9,8 @@ h1 {
 h2 {
 	font-size: 29px;
 	font-style: oblique;
-	color: rgb(0, 36, 104)
+	color: rgb(0, 36, 104);
+	text-align: center
 }
 
 p {
@@ -25,14 +26,27 @@ em strong {
 }
 
 .beneficios {
-	background: rgb(0, 86, 245)
+	background: rgb(0, 86, 245);
+	padding: 20px;
 }
 
 .principal{
-	background: #cccccc
+	background: #cccccc;
+	padding: 30px;
 }
 
 .itens {
 	font-style: italic;
 	color: white;
+}
+
+ul {
+	display: inline-block;
+	vertical-align: top;
+	width: 25%;
+	margin-right: 15%;
+
+}
+.imagemBeneficios {
+	width: 50%;
 }
