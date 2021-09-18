@@ -3,8 +3,13 @@
 }
 
 h1 {
-	background: #cee6ff;
 	text-align: center
+}
+
+h2 {
+	font-size: 29px;
+	font-style: oblique;
+	color: rgb(0, 36, 104)
 }
 
 p {
@@ -19,6 +24,15 @@ em strong {
 	color: rgb(0, 86, 245)
 }
 
+.beneficios {
+	background: rgb(0, 86, 245)
+}
+
+.principal{
+	background: #cccccc
+}
+
 .itens {
 	font-style: italic;
+	color: white;
 }
